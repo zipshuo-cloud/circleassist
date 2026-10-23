@@ -8,7 +8,7 @@ Apple Silicon Macs with macOS 26 or later. The current device baseline is 16 GB 
 
 ## What do I need before my first task
 
-Follow the welcome conversation to sign in, download the approximately 539 MB local speech model, and configure a cloud AI provider or a supported local model. The app and AI provider are separate services; a CircleAssist account does not include a cloud provider API key.
+Follow the welcome conversation to download the approximately 539 MB local speech model and configure a cloud AI provider or a supported local model. Cloud model access is configured separately; installing CircleAssist does not include a cloud provider API key.
 
 ## Is cloud AI usage included
 

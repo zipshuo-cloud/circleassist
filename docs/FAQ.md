@@ -8,7 +8,7 @@ Apple Silicon Macs with macOS 26 or later. The current device baseline is 16 GB 
 
 ## What do I need before my first task
 
-Follow the welcome conversation to download the approximately 539 MB local speech model and configure a cloud AI provider or a supported local model. Cloud model access is configured separately; installing CircleAssist does not include a cloud provider API key.
+Follow the welcome conversation in order: sign in to CircleAssist with an email verification code, download the approximately 539 MB local speech model, and configure a cloud AI provider or a supported local model. Signing in to CircleAssist and connecting an AI model are separate steps; the app account does not include a cloud provider API key.
 
 ## Is cloud AI usage included
 
@@ -32,7 +32,7 @@ Compatibility varies by application and input field. Protected fields or control
 
 ## Which file should I download
 
-Use the Mac DMG from the official website or a published CircleAssist Release. GitHub's automatically generated Source code archives contain this information repository, not an installable application. Open the DMG and drag the app into Applications.
+Use the Mac DMG from the official website or a published CircleAssist Release. GitHub's automatically generated Source code (zip / tar.gz) archives contain only product documents, images, and feedback templates from this repository. They contain neither the application's source code nor an installable application. Open the DMG and drag the app into Applications.
 
 ## How do updates work
 

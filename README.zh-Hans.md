@@ -10,7 +10,7 @@
 
 [English](README.md) · [下载 Mac 版](https://quanzhu.fangtangtech.com/zh-Hans#download) · [官网](https://quanzhu.fangtangtech.com/zh-Hans) · [问题反馈](https://github.com/zipshuo-cloud/circleassist/issues/new/choose)
 
-Apple Silicon · macOS 26 及以上 · 16 GB 内存
+Apple 芯片（M1 及后续型号）· macOS 26 及以上
 
 ![圈助圈选屏幕内容的流程示意](assets/screen-selection.webp)
 
@@ -36,7 +36,7 @@ Apple Silicon · macOS 26 及以上 · 16 GB 内存
 2. **配置语音。** 下载约 539 MB 的本地语音识别模型。
 3. **选择 AI。** 配置兼容的云端模型服务，或选择受支持的本地模型。
 
-使用相关功能时，再按提示授予所需的 macOS 权限。16 GB 是设备基线，本地大模型可能需要更多内存。
+使用相关功能时，再按提示授予所需的 macOS 权限。建议使用 16 GB 及以上内存；8 GB 设备尚未充分验证。本地 AI 模型的内存需求取决于所选模型。
 
 ## 模型与费用
 

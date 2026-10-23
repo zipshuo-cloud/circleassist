@@ -10,7 +10,7 @@ Select something on your screen, dictate into a text field, or ask for help with
 
 [简体中文](README.zh-Hans.md) · [Download for Mac](https://quanzhu.fangtangtech.com/en#download) · [Website](https://quanzhu.fangtangtech.com/en) · [Report an issue](https://github.com/zipshuo-cloud/circleassist/issues/new/choose)
 
-Apple Silicon · macOS 26+ · 16 GB RAM
+Apple Silicon (M1 or later) · macOS 26+
 
 ![Illustration of selecting screen content with CircleAssist](assets/screen-selection.webp)
 
@@ -36,7 +36,7 @@ Clipboard history, saved knowledge, memory management, and MCP tool connections 
 2. **Set up speech.** Download the local speech recognition model, approximately 539 MB.
 3. **Choose your AI.** Configure a compatible cloud provider or a supported local model.
 
-Grant macOS permissions when you use the features that need them. Local AI models may require more memory than the 16 GB device baseline.
+Grant macOS permissions when you use the features that need them. 16 GB RAM or more is recommended. Macs with 8 GB RAM have not been fully validated. Local AI model memory requirements vary by model.
 
 ## Models and costs
 

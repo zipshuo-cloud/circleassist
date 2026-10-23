@@ -4,7 +4,7 @@
 
 ## Which Macs are supported
 
-Apple Silicon Macs with macOS 26 or later. The current device baseline is 16 GB RAM. The memory needed for a local AI model depends on the model; 16 GB does not support every available model.
+Requires a Mac with Apple Silicon (M1 or later) and macOS 26 or later. Intel Macs are not supported. 16 GB RAM or more is recommended; Macs with 8 GB RAM have not been fully validated. Local AI model memory requirements vary by model, and some models require more than 16 GB.
 
 ## What do I need before my first task
 

@@ -32,7 +32,7 @@ Apple Silicon · macOS 26 及以上 · 16 GB 内存
 
 ## 首次使用
 
-1. **安装应用。** 下载安装后，跟随首次打开的欢迎对话完成设置。
+1. **登录圈助。** 下载安装后，按欢迎指引使用邮箱验证码登录或注册，并确认使用权益。
 2. **配置语音。** 下载约 539 MB 的本地语音识别模型。
 3. **选择 AI。** 配置兼容的云端模型服务，或选择受支持的本地模型。
 
@@ -60,4 +60,4 @@ Apple Silicon · macOS 26 及以上 · 16 GB 内存
 
 私人支持问题请联系 [support@fangtangtech.com](mailto:support@fangtangtech.com)。
 
-本仓库用于产品说明、版本下载和反馈，不包含应用源码。参见[仓库使用说明](REPOSITORY_USAGE.md)。
+本仓库用于产品说明、版本下载和反馈，不包含应用源码。GitHub 自动生成的 **Source code（zip / tar.gz）** 只包含本仓库的产品说明、图片和反馈模板；安装应用请选择 **DMG**。参见[仓库使用说明](REPOSITORY_USAGE.md)。

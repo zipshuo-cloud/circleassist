@@ -32,7 +32,7 @@ Clipboard history, saved knowledge, memory management, and MCP tool connections 
 
 ## Get started
 
-1. **Install the app.** Download CircleAssist and follow the welcome conversation to complete setup.
+1. **Sign in to CircleAssist.** Install the app, then use your email verification code to sign in or register and confirm access.
 2. **Set up speech.** Download the local speech recognition model, approximately 539 MB.
 3. **Choose your AI.** Configure a compatible cloud provider or a supported local model.
 
@@ -60,4 +60,4 @@ Screen capture and desktop interaction need the relevant macOS permissions. Inpu
 
 For private support, email [support@fangtangtech.com](mailto:support@fangtangtech.com).
 
-This repository hosts product information, release downloads, and feedback. The application's source code is not included. See [repository usage](REPOSITORY_USAGE.md).
+This repository hosts product information, release downloads, and feedback. The application's source code is not included. GitHub's automatic **Source code (zip / tar.gz)** downloads contain only this repository's product documents, images, and feedback templates. To install the app, download the **DMG**. See [repository usage](REPOSITORY_USAGE.md).

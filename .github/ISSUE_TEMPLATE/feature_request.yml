@@ -1,0 +1,28 @@
+name: Feature request / 功能建议
+description: Tell us what you want to accomplish / 说明你想完成什么
+title: "[Idea] "
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: What would you like to do / 想完成什么
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: How do you do it now and what gets in the way / 现在怎么做，卡在哪里
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired outcome / 期望结果
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: How often do you need this / 使用频率
+      options:
+        - Daily / 每天
+        - Weekly / 每周
+        - Occasionally / 偶尔

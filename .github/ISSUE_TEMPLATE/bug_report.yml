@@ -1,0 +1,64 @@
+name: Bug report / 问题反馈
+description: Report a reproducible problem with CircleAssist / 反馈可复现的问题
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please remove private information. Never post API keys, verification codes, or full conversations.
+        请移除私人信息，不要上传 API Key、验证码或完整私人对话。私人问题请联系 support@fangtangtech.com。
+  - type: input
+    id: app-version
+    attributes:
+      label: App version and build / 应用版本与构建号
+      placeholder: "0.1.2 (209)"
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: macOS version / 系统版本
+    validations:
+      required: true
+  - type: input
+    id: hardware
+    attributes:
+      label: Mac chip and RAM / 芯片与内存
+      placeholder: "Apple M4, 16 GB"
+  - type: input
+    id: context
+    attributes:
+      label: Feature and target app / 功能与目标应用
+      placeholder: "Voice input in Safari / Safari 中的语音输入"
+    validations:
+      required: true
+  - type: input
+    id: model
+    attributes:
+      label: Local or cloud model / 本地或云端模型
+      description: "Provider and model name only; no key / 仅填写服务商和模型名，不填密钥"
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / 复现步骤
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and actual result / 预期与实际结果
+    validations:
+      required: true
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: Frequency / 出现频率
+      options:
+        - Every time / 每次
+        - Sometimes / 偶尔
+        - Once / 一次
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot or error message / 脱敏截图或错误信息
+      description: "Optional. Share only the relevant, redacted part / 可选，仅提供相关且已脱敏的部分"

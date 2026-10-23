@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private support / 私人问题
+    url: https://quanzhu.fangtangtech.com/en/support
+    about: "Account, access, or private information / 账号、权益或含私人信息的问题"
+  - name: Setup help / 配置帮助
+    url: https://quanzhu.fangtangtech.com/zh-Hans/support
+    about: "Installation, speech, and AI model setup / 安装、语音与 AI 模型配置"

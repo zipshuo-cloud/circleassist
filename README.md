@@ -32,7 +32,7 @@ Clipboard history, saved knowledge, memory management, and MCP tool connections 
 
 ## Get started
 
-1. **Sign in.** Download and install the app, then follow the welcome conversation.
+1. **Install the app.** Download CircleAssist and follow the welcome conversation to complete setup.
 2. **Set up speech.** Download the local speech recognition model, approximately 539 MB.
 3. **Choose your AI.** Configure a compatible cloud provider or a supported local model.
 
